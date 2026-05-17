@@ -1,4 +1,4 @@
-package com.kunal;
+package com.aryan;
 
 public class CustomStack {
     protected int[] data;
